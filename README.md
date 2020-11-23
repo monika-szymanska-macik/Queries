@@ -1,0 +1,2 @@
+# Queries
+learning Linq
